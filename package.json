@@ -1,6 +1,6 @@
 {
-  "name": "leodev-theme-dark-blue--",
-  "displayName": "LeoDev-Theme Dark Blue +",
+  "name": "leodev-theme",
+  "displayName": "LeoDev-Theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,10 +12,21 @@
   "contributes": {
     "themes": [
       {
-        "label": "LeoDev-Theme Dark Blue +",
+        "label": "LeoDev-Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/LeoDev-Theme Dark Blue +-color-theme.json"
+        "path": "./themes/LeoDev-Theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/Logo128x128.png",
+  "author": {
+    "name": "LeoDev",
+    "url": "leodev.https://github.com/Leonardoih?tab=repositories"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "publisher": "leodev-theme"
+
 }
