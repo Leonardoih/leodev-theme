@@ -1,0 +1,21 @@
+{
+  "name": "leodev-theme-dark-blue--",
+  "displayName": "LeoDev-Theme Dark Blue +",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LeoDev-Theme Dark Blue +",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LeoDev-Theme Dark Blue +-color-theme.json"
+      }
+    ]
+  }
+}
